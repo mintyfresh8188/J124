@@ -16,6 +16,8 @@ Throughout my life, I have had a variety of diverse experiences both in the visu
 
 | Emplpoyment   | Job Description |
 | ----------- | ----------- |
-| Specialty Coffee | Worked part time as a barista serving sepcialty blends and single origin espresso in a high end district. I can +operate an espresso machine +make all basic forms of latte art +calibrate the grind of beans according to humidity and temperature of the day |
+| Specialty Coffee | Worked part time as a barista serving sepcialty blends and single origin espresso in a high end district. I can <ul><li>operate an espresso machine </li><li>make all basic forms of latte art</li><li>calibrate the grind of beans according to humidity and temperature of the day</li></ul>|
 | Branding Consultant and Designer  | Assisted a start up in a complete rebranding and created:   *brand narrative,   *visual identity package     *product packaging |
 | Game Design Intern  | Assisted in creating the concept art and narrative for the league of legends champion Kindred during my internship in secondary school |
+
+| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
