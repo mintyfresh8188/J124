@@ -11,6 +11,7 @@ Throughout my life, I have had a variety of diverse experiences both in the visu
 1. Graphic Design (proficient in Adobe Illustrator and Indesign)
 
 <h2> Experience </h2>
+
 | Emplpoyment   | Job Description |
 | ----------- | ----------- |
 | Specialty Coffee | Worked part time as a barista serving sepcialty blends and single origin espresso in a high end district |
