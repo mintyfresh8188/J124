@@ -1,4 +1,4 @@
-# J124
+# J124 RESUME
 <h1>Si-Jin Guo</h1>
 <h2>I am an illustrator, graphic designer, animator, and all around science nerd. I am passionate about using visual expression to further science communication and to tell important stories.</h2>
 This is an example of a recent work that showcases my artistic style the best
