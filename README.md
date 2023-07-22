@@ -1,7 +1,8 @@
 # J124
 <h1>Si-Jin Guo</h1>
 <h2>I am an illustrator, graphic designer, animator, and all around science nerd. I am passionate about using visual expression to further science communication and to tell important stories.</h2>
-This is an example of a recent work that showcases my artistic style the best#
+This is an example of a recent work that showcases my artistic style the best
+
 ![animation_challenge_1_AdobeExpress](https://github.com/mintyfresh8188/J124/assets/140226921/1218f8d9-d995-4aff-9f6b-7a69dabe6ebc)
 
 <h2> Skills </h2>
