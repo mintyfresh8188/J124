@@ -20,4 +20,4 @@ Throughout my life, I have had a variety of diverse experiences both in the visu
 | Branding Consultant and Designer  | Assisted a start up in a complete rebranding and created:<ul><li>brand narrative,</li><li>visual identity package</li><li>product packaging</li></ul>|
 | Game Design Intern  | Assisted in creating the concept art and narrative for the league of legends champion Kindred during my internship in secondary school. I submitted drafts of: <ul><li>backstory</li><li>gameplay mechanics</li><li>character design and visual themes</li></ul>|
 
-| <ul><li>item1</li><li>item2</li></ul>| See the list | from the first column|
+
